@@ -11,6 +11,7 @@
 		41DBEB192C720BD1009ECDC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DBEB182C720BD1009ECDC5 /* ContentView.swift */; };
 		41DBEB1B2C720BD4009ECDC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41DBEB1A2C720BD4009ECDC5 /* Assets.xcassets */; };
 		41DBEB1E2C720BD4009ECDC5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41DBEB1D2C720BD4009ECDC5 /* Preview Assets.xcassets */; };
+		41DBEB252C720C56009ECDC5 /* ECCManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DBEB242C720C56009ECDC5 /* ECCManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		41DBEB182C720BD1009ECDC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41DBEB1A2C720BD4009ECDC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41DBEB1D2C720BD4009ECDC5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41DBEB242C720C56009ECDC5 /* ECCManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ECCManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				41DBEB162C720BD1009ECDC5 /* EllipticCurveCryptographyApp.swift */,
+				41DBEB242C720C56009ECDC5 /* ECCManager.swift */,
 				41DBEB182C720BD1009ECDC5 /* ContentView.swift */,
 				41DBEB1A2C720BD4009ECDC5 /* Assets.xcassets */,
 				41DBEB1C2C720BD4009ECDC5 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41DBEB192C720BD1009ECDC5 /* ContentView.swift in Sources */,
+				41DBEB252C720C56009ECDC5 /* ECCManager.swift in Sources */,
 				41DBEB172C720BD1009ECDC5 /* EllipticCurveCryptographyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
